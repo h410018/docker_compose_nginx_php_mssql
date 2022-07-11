@@ -1,0 +1,3 @@
+mssql/data/*
+mssql/log/*
+var/www/media-blob/*
